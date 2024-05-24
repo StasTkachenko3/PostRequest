@@ -1,0 +1,22 @@
+{
+
+"FirstName": "value"
+
+"LastName" : "value",
+
+"UserName" : "value",
+
+"Password": "value",
+
+"Email": "Value",
+
+"Age": 27,
+
+"AtcivePhone": true,
+
+"cars": [
+  "cars1","cars2","cars3"
+        ]
+  
+
+}
